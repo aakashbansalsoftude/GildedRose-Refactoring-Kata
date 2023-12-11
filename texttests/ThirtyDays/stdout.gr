@@ -1,0 +1,311 @@
+Hello
+-------- day 0 --------
+name, sellIn, quality
+Aged Brie, 10, 20
+Backstage passes, 15, 20
+Backstage passes, 10, 49
+Backstage passes, 5, 49
+Sulfuras, 0, 80
+Conjured, 3, 6
+Normal Item, 0, 2
+
+-------- day 1 --------
+name, sellIn, quality
+Aged Brie, 9, 21
+Backstage passes, 14, 21
+Backstage passes, 9, 50
+Backstage passes, 4, 50
+Sulfuras, 0, 80
+Conjured, 2, 4
+Normal Item, -1, 0
+
+-------- day 2 --------
+name, sellIn, quality
+Aged Brie, 8, 22
+Backstage passes, 13, 22
+Backstage passes, 8, 50
+Backstage passes, 3, 50
+Sulfuras, 0, 80
+Conjured, 1, 2
+Normal Item, -2, 0
+
+-------- day 3 --------
+name, sellIn, quality
+Aged Brie, 7, 23
+Backstage passes, 12, 23
+Backstage passes, 7, 50
+Backstage passes, 2, 50
+Sulfuras, 0, 80
+Conjured, 0, 0
+Normal Item, -3, 0
+
+-------- day 4 --------
+name, sellIn, quality
+Aged Brie, 6, 24
+Backstage passes, 11, 24
+Backstage passes, 6, 50
+Backstage passes, 1, 50
+Sulfuras, 0, 80
+Conjured, -1, 0
+Normal Item, -4, 0
+
+-------- day 5 --------
+name, sellIn, quality
+Aged Brie, 5, 25
+Backstage passes, 10, 26
+Backstage passes, 5, 50
+Backstage passes, 0, 50
+Sulfuras, 0, 80
+Conjured, -2, 0
+Normal Item, -5, 0
+
+-------- day 6 --------
+name, sellIn, quality
+Aged Brie, 4, 26
+Backstage passes, 9, 28
+Backstage passes, 4, 50
+Backstage passes, -1, 0
+Sulfuras, 0, 80
+Conjured, -3, 0
+Normal Item, -6, 0
+
+-------- day 7 --------
+name, sellIn, quality
+Aged Brie, 3, 27
+Backstage passes, 8, 30
+Backstage passes, 3, 50
+Backstage passes, -2, 0
+Sulfuras, 0, 80
+Conjured, -4, 0
+Normal Item, -7, 0
+
+-------- day 8 --------
+name, sellIn, quality
+Aged Brie, 2, 28
+Backstage passes, 7, 32
+Backstage passes, 2, 50
+Backstage passes, -3, 0
+Sulfuras, 0, 80
+Conjured, -5, 0
+Normal Item, -8, 0
+
+-------- day 9 --------
+name, sellIn, quality
+Aged Brie, 1, 29
+Backstage passes, 6, 34
+Backstage passes, 1, 50
+Backstage passes, -4, 0
+Sulfuras, 0, 80
+Conjured, -6, 0
+Normal Item, -9, 0
+
+-------- day 10 --------
+name, sellIn, quality
+Aged Brie, 0, 30
+Backstage passes, 5, 37
+Backstage passes, 0, 50
+Backstage passes, -5, 0
+Sulfuras, 0, 80
+Conjured, -7, 0
+Normal Item, -10, 0
+
+-------- day 11 --------
+name, sellIn, quality
+Aged Brie, -1, 32
+Backstage passes, 4, 40
+Backstage passes, -1, 0
+Backstage passes, -6, 0
+Sulfuras, 0, 80
+Conjured, -8, 0
+Normal Item, -11, 0
+
+-------- day 12 --------
+name, sellIn, quality
+Aged Brie, -2, 34
+Backstage passes, 3, 43
+Backstage passes, -2, 0
+Backstage passes, -7, 0
+Sulfuras, 0, 80
+Conjured, -9, 0
+Normal Item, -12, 0
+
+-------- day 13 --------
+name, sellIn, quality
+Aged Brie, -3, 36
+Backstage passes, 2, 46
+Backstage passes, -3, 0
+Backstage passes, -8, 0
+Sulfuras, 0, 80
+Conjured, -10, 0
+Normal Item, -13, 0
+
+-------- day 14 --------
+name, sellIn, quality
+Aged Brie, -4, 38
+Backstage passes, 1, 49
+Backstage passes, -4, 0
+Backstage passes, -9, 0
+Sulfuras, 0, 80
+Conjured, -11, 0
+Normal Item, -14, 0
+
+-------- day 15 --------
+name, sellIn, quality
+Aged Brie, -5, 40
+Backstage passes, 0, 50
+Backstage passes, -5, 0
+Backstage passes, -10, 0
+Sulfuras, 0, 80
+Conjured, -12, 0
+Normal Item, -15, 0
+
+-------- day 16 --------
+name, sellIn, quality
+Aged Brie, -6, 42
+Backstage passes, -1, 0
+Backstage passes, -6, 0
+Backstage passes, -11, 0
+Sulfuras, 0, 80
+Conjured, -13, 0
+Normal Item, -16, 0
+
+-------- day 17 --------
+name, sellIn, quality
+Aged Brie, -7, 44
+Backstage passes, -2, 0
+Backstage passes, -7, 0
+Backstage passes, -12, 0
+Sulfuras, 0, 80
+Conjured, -14, 0
+Normal Item, -17, 0
+
+-------- day 18 --------
+name, sellIn, quality
+Aged Brie, -8, 46
+Backstage passes, -3, 0
+Backstage passes, -8, 0
+Backstage passes, -13, 0
+Sulfuras, 0, 80
+Conjured, -15, 0
+Normal Item, -18, 0
+
+-------- day 19 --------
+name, sellIn, quality
+Aged Brie, -9, 48
+Backstage passes, -4, 0
+Backstage passes, -9, 0
+Backstage passes, -14, 0
+Sulfuras, 0, 80
+Conjured, -16, 0
+Normal Item, -19, 0
+
+-------- day 20 --------
+name, sellIn, quality
+Aged Brie, -10, 50
+Backstage passes, -5, 0
+Backstage passes, -10, 0
+Backstage passes, -15, 0
+Sulfuras, 0, 80
+Conjured, -17, 0
+Normal Item, -20, 0
+
+-------- day 21 --------
+name, sellIn, quality
+Aged Brie, -11, 50
+Backstage passes, -6, 0
+Backstage passes, -11, 0
+Backstage passes, -16, 0
+Sulfuras, 0, 80
+Conjured, -18, 0
+Normal Item, -21, 0
+
+-------- day 22 --------
+name, sellIn, quality
+Aged Brie, -12, 50
+Backstage passes, -7, 0
+Backstage passes, -12, 0
+Backstage passes, -17, 0
+Sulfuras, 0, 80
+Conjured, -19, 0
+Normal Item, -22, 0
+
+-------- day 23 --------
+name, sellIn, quality
+Aged Brie, -13, 50
+Backstage passes, -8, 0
+Backstage passes, -13, 0
+Backstage passes, -18, 0
+Sulfuras, 0, 80
+Conjured, -20, 0
+Normal Item, -23, 0
+
+-------- day 24 --------
+name, sellIn, quality
+Aged Brie, -14, 50
+Backstage passes, -9, 0
+Backstage passes, -14, 0
+Backstage passes, -19, 0
+Sulfuras, 0, 80
+Conjured, -21, 0
+Normal Item, -24, 0
+
+-------- day 25 --------
+name, sellIn, quality
+Aged Brie, -15, 50
+Backstage passes, -10, 0
+Backstage passes, -15, 0
+Backstage passes, -20, 0
+Sulfuras, 0, 80
+Conjured, -22, 0
+Normal Item, -25, 0
+
+-------- day 26 --------
+name, sellIn, quality
+Aged Brie, -16, 50
+Backstage passes, -11, 0
+Backstage passes, -16, 0
+Backstage passes, -21, 0
+Sulfuras, 0, 80
+Conjured, -23, 0
+Normal Item, -26, 0
+
+-------- day 27 --------
+name, sellIn, quality
+Aged Brie, -17, 50
+Backstage passes, -12, 0
+Backstage passes, -17, 0
+Backstage passes, -22, 0
+Sulfuras, 0, 80
+Conjured, -24, 0
+Normal Item, -27, 0
+
+-------- day 28 --------
+name, sellIn, quality
+Aged Brie, -18, 50
+Backstage passes, -13, 0
+Backstage passes, -18, 0
+Backstage passes, -23, 0
+Sulfuras, 0, 80
+Conjured, -25, 0
+Normal Item, -28, 0
+
+-------- day 29 --------
+name, sellIn, quality
+Aged Brie, -19, 50
+Backstage passes, -14, 0
+Backstage passes, -19, 0
+Backstage passes, -24, 0
+Sulfuras, 0, 80
+Conjured, -26, 0
+Normal Item, -29, 0
+
+-------- day 30 --------
+name, sellIn, quality
+Aged Brie, -20, 50
+Backstage passes, -15, 0
+Backstage passes, -20, 0
+Backstage passes, -25, 0
+Sulfuras, 0, 80
+Conjured, -27, 0
+Normal Item, -30, 0
+
